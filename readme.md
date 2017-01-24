@@ -7,6 +7,8 @@ Ceci est mon debrief sur les cours de google analytics proposé dans la "Analyti
 * 1) les bases 
 * 2) Les techniques
     - La segmentation
+    - Le contexte
+* 
 
 ## 1) Les bases
 
@@ -26,7 +28,7 @@ Ces nouvelles statistiques doivent amener à de nouveaux objectifs selon le type
 
 Voici une citation d'un evangelist de digital analytics : 
 
-    "Digital analytics" is the analysis of qualitative and quantitative data from your business and the competition to drive a continual improvement of the online experience that your customers and potential customers have which translates to your desired outcomes.
+    "Digital analytics" is the analysis of qualitative and quantitative data from your business and the competition to drive   a continual improvement of the online experience that your customers   and potential customers have which translates to your desired outcomes.
         - Avinash Kaushik, auteur de "Web analytics 2.0"
 
 ## 2) Les techniques d'analyses
